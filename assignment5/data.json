@@ -1,0 +1,72 @@
+{
+	"students": [{
+			"name": "Charles",
+			"age": 24,
+			"city": "New York",
+			"degree": "Computer Science BA",
+      "studentid": 127,
+			"classes": [{
+					"name": "C Programming",
+					"professor": "Dr. Man",
+          "courseno": 120
+				},
+				{
+					"name": "Databases",
+					"professor": "Dr. Noman",
+          "courseno": 121
+				},
+				{
+					"name": "Calculus",
+					"professor": "Dr. Oh-noman",
+          "courseno": 122
+				}
+			]
+		},
+		{
+			"name": "Eric",
+			"age": 22,
+			"city": "Chicago",
+			"degree": "Psych BS",
+      "studentid": 280,
+      "classes": [{
+          "name": "General Psychology",
+          "professor": "Dr. Neuron",
+          "courseno": 323
+        },
+        {
+          "name": "Experimental Psychology",
+          "professor": "Dr. Synaps",
+          "courseno": 324
+        },
+        {
+          "name": "Abnormal Psychology",
+          "professor": "Dr. Brainstem",
+          "courseno": 325
+        }
+      ]
+		},
+		{
+			"name": "Gabriel",
+			"age": 27,
+			"city": "Los Angeles",
+			"degree": "English BA",
+      "studentid": 311,
+      "classes": [{
+          "name": "College Writing II",
+          "professor": "Dr. Pen",
+          "courseno": 626
+        },
+        {
+          "name": "Contemporary Drama",
+          "professor": "Dr. Ink",
+          "courseno": 627
+        },
+        {
+          "name": "Intro to Women’s Lit",
+          "professor": "Dr. Well",
+          "courseno": 628
+        }
+      ]
+		}
+	]
+}
