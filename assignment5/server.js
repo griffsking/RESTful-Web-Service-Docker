@@ -2,7 +2,7 @@ const { setDefaultResultOrder } = require('dns');
 var express = require('express');
 var app = express();
 var fs = require("fs");
-var port = 5000;
+var port = 3000;
 
 
 app.get('/students', function (req, res) {
